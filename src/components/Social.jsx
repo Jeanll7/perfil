@@ -11,7 +11,7 @@ const Social = () => {
   return (
     <section id="social-mid">
       {socialMid.map((network) => (       
-        <a href="https://www.linkedin.com/in/jean-leal-31684217b/" className="social-btn" id={network.name} key={network.name}>
+        <a href="#" className="social-btn" id={network.name} key={network.name}>
           {network.icon}
         </a>        
       ))}
