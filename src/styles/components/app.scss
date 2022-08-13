@@ -9,11 +9,11 @@
         width: 100%;
         font-size: 4.5rem;
         margin-bottom: 3rem;
-        font-family: variables.$font-title;
         background: variables.$gradient;
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
+        font-family: variables.$font-title;
     }
     @media screen and (max-width: 460px) {
         h1 {
