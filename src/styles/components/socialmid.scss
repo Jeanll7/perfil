@@ -9,15 +9,15 @@
         background-color: variables.$bg-color-secondary;
         border-radius: variables.$card-border-radius;
         color: #333;
-        font-size: 1.3rem;
+        font-size: 1.5rem;
         @include mixins.center;
     }
     #linkdin {
         color: #0072b1;
     }
     #github {
-     // color: #111;
-        Color: #DDD;
+        color: #111;
+        color: #ddd;
     }
     #instagram {
         color: #bc2a8d;
