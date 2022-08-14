@@ -11,7 +11,7 @@ const Navbar = () => {
       <p className="title">Desenvolvedor FrontEnd</p>
       <Social />
       <Information />
-      <a href="" className="btn">
+      <a href="#" className="btn">
         Download currículo 
       </a>
     </aside>
