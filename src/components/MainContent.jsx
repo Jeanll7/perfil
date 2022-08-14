@@ -1,9 +1,14 @@
 import '../styles/components/maincontent.scss'
+import AboutContainer from './AboutContainer';
+import ProjectsContainer from './ProjectsContainer';
+import TechContainer from './TechContainer';
 
 const MainContent = () => {
   return (
     <main id="main-content">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fugiat adipisci nisi asperiores officiis placeat ipsa aperiam. Neque suscipit esse aliquam sed nesciunt soluta dolore.Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fugiat adipisci nisi asperiores officiis placeat ipsa aperiam. Neque suscipit esse aliquam sed nesciunt soluta dolore.Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fugiat adipisci nisi asperiores officiis placeat ipsa aperiam. Neque suscipit esse aliquam sed nesciunt soluta dolore.
+      <AboutContainer />
+      <TechContainer />
+      <ProjectsContainer />
     </main>
   )
 }
