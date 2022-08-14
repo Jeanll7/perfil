@@ -10,14 +10,14 @@ const Information = () => {
               <AiFillPhone id="phone-icon" />
               <div>
                 <h3>Telefone</h3>
-                {/* <p>(47)99999-99999</p> */}
+                <p>(47)997574709</p>
             </div>
           </div>
       <div className="info-card">
         <AiOutlineMail id="email-icon" />
         <div>
           <h3>E-mail</h3>
-          {/* <p>jeanleall@gmail.com</p> */}
+          <p>jeanll@gmail.com</p>
         </div>
       </div>
       <div className="info-card">
