@@ -5,7 +5,7 @@ const ProjectsContainer = () => {
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae libero incidunt repellat obcaecati? Consectetur, reprehenderit. Ullam fugit deserunt quibusdam ipsa harum veniam adipisci repellendus quidem?        
       </p>
-      <a href="#github" className="btn">
+      <a href="https://github.com/Jeanll7" className="btn">
         Ver Projeros
       </a>
     </section>
