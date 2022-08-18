@@ -5,7 +5,7 @@
     color: #FFF;
     flex: 2 1 0;
     border-radius: variables.$container-border-radius;
-    padding: 3rem;
+    padding: 2rem;
     section {
         display: flex;
         flex-direction: column;
@@ -13,7 +13,7 @@
     h2 {
         color: variables.$text-color;
         font-size: 2.2rem;
-        margin-bottom: 1.3rem;
+        margin: 2rem 0;
         @include mixins.center;
         justify-content: start;
         gap: 1rem;
@@ -28,6 +28,7 @@
     }
     .btn {
         @include mixins.btn;
-        align-self: start;
+        align-self: center;
+        font-size: 18px;
     }
 }
