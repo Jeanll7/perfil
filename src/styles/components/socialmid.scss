@@ -3,7 +3,7 @@
 #social-mid {
     @include mixins.center;
     gap: 1rem;
-    margin: 1rem 0;
+    margin: 1.2rem 0;
     .social-btn {
         @include mixins.center;        
         padding: .6rem;
