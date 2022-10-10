@@ -2,7 +2,7 @@
 
 ## Stack utilizada
 
-**Front-end:** HTML, JavaScript, SCSS,
+**Front-end:** HTML, JavaScript, SCSS
 
 
 
