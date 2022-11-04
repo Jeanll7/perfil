@@ -6,14 +6,16 @@
     padding: 3rem;
     gap: 3rem;
     h1 {
+        font-family: monospace !important;
+        color: #ffe;
         width: 100%;
         font-size: 4.5rem;
         margin-bottom: 2rem;
         font-family: variables.$font-title;
-        background: variables.$gradient;
-        background-clip: text;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        // background: variables.$gradient;
+        // background-clip: text;
+        // -webkit-background-clip: text;
+        // -webkit-text-fill-color: transparent;
     }
     @media (max-width: 460px) {
         h1 {
